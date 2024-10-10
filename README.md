@@ -4,7 +4,7 @@ demonstrates core Object-Oriented Programming (OOP) concepts such as inheritance
 encapsulation, and polymorphism.
 
 # Classes
-1. **Human**
+1. **Human** 
 Attributes: name, age
 The base class for both Student and Teacher.
 2. **Student** (Inherits from Human)
