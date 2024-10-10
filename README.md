@@ -1,9 +1,9 @@
-**University system**
+# University system
 This is a Python-based University System that manages students, teachers, and sections. It 
 demonstrates core Object-Oriented Programming (OOP) concepts such as inheritance,
 encapsulation, and polymorphism.
 
-****Classes****
+*Classes*
 1. ***Human***
 Attributes: name, age
 The base class for both Student and Teacher.
